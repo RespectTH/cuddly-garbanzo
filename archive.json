@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-03-19T05:17:26.654173+00:00",
+  "timestamp": "2026-03-22T05:13:27.918615+00:00",
   "repo": "RespectTH/cuddly-garbanzo",
   "labels": [
     {
@@ -49,6 +49,27 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDORqC60870X4Uf",
+      "title": "Cuddly-garbanza-heeboh",
+      "url": "https://github.com/RespectTH/cuddly-garbanzo/issues/1",
+      "state": "OPEN",
+      "author": "RespectTH",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "RespectTH"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "body": "",
+      "createdAt": "2026-03-19T07:35:24Z",
+      "updatedAt": "2026-03-19T07:35:24Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
